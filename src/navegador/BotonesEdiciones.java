@@ -22,7 +22,7 @@ public class BotonesEdiciones extends JButton implements ConfiguracionBotones
 		anadir = new JButton();
 		anadir.setBackground(ColorBotones);
 		anadir.setIcon(new ImageIcon(getClass().getResource("/iconos/anadir.png")));
-		anadir.setToolTipText("Añadir");
+		anadir.setToolTipText("AÃ‘adir");
 		panelBotonesEdiciones.add(anadir);
 		
 		buscar = new JButton();
